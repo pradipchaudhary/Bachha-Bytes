@@ -134,8 +134,4 @@ Bachha Bytes is an educational initiative. Content is created to support learnin
 
 ✨ *Learning made simple. Learning made fun.*  
 **Bachha Bytes**
-```
 
-
-
-Tell me what you want to build next for **Bachha Bytes**.
